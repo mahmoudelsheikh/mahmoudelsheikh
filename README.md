@@ -28,7 +28,6 @@
 
 - Telecom/Network Engineer
 - Playing CTF's at spare time
-- Currently learning Embedded Systems by Self
 - Personal website [link](https://linktr.ee/MahmoudElsheikh)
 
 
