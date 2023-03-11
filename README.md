@@ -28,6 +28,7 @@
 
 - Telecom/Network Engineer
 - Playing CTF's at spare time
+- Doing some programming stuff
 - Personal website [link](https://linktr.ee/MahmoudElsheikh)
 
 
