@@ -20,12 +20,13 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+<!--
 <picture>
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width=300px>
 </picture>
-
+-->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
 - Communications Engineer at Telecom Egypt
